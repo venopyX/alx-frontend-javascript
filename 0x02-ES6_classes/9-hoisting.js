@@ -1,4 +1,5 @@
 /* eslint-disable no-underscore-dangle */
+// eslint-disable-next-line max-classes-per-file
 export class ALXClass {
   constructor(year, location) {
     this._year = year;
